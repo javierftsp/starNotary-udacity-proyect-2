@@ -1,0 +1,25 @@
+{
+  "name": "starnotary-udacity-proyect-2",
+  "version": "1.0.0",
+  "description": "Decentralized Star Notary Service project for Udacity Blockchain Developer nano-degree course.",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/javierftsp/starNotary-udacity-proyect-2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/javierftsp/starNotary-udacity-proyect-2/issues"
+  },
+  "homepage": "https://github.com/javierftsp/starNotary-udacity-proyect-2#readme",
+  "dependencies": {
+    "openzeppelin-solidity": "^2.5.0"
+  }
+}
