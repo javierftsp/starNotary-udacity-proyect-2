@@ -20,6 +20,7 @@
   },
   "homepage": "https://github.com/javierftsp/starNotary-udacity-proyect-2#readme",
   "dependencies": {
-    "openzeppelin-solidity": "^2.5.0"
+    "openzeppelin-solidity": "^2.5.0",
+    "truffle-hdwallet-provider": "^1.0.17"
   }
 }
